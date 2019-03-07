@@ -8,7 +8,7 @@
   "require": {
     "php": ">=7.1",
     "spryker-feature/cart": "^201903.0",
-    "spryker-shop/multi-cart-page": "^1.5.1",
+    "spryker-shop/multi-cart-page": "^2.0.0",
     "spryker-shop/multi-cart-widget": "^1.4.0",
     "spryker/multi-cart": "^1.4.0",
     "spryker/multi-cart-data-import": "^0.1.2"
