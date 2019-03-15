@@ -1,6 +1,6 @@
 # Spryker Feature: Multiple carts
 
-Multiple carts support
+The Multiple Carts feature allows you to create and manage one or multiple shopping carts in one customer account.
 
 ## Installation
 
