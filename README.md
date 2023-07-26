@@ -14,4 +14,4 @@ composer require spryker-feature/multiple-carts
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MultiCartsRestApi ^1.0.0](https://github.com/spryker/multi-carts-rest-api) (Glue)
+- [MultiCartsRestApi ^1.0.0](https://github.com/spryker/multi-carts-rest-api) (Legacy Glue)
