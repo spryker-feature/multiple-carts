@@ -9,12 +9,12 @@
         "php": ">=8.0",
         "spryker-shop/multi-cart-page": "^2.6.0",
         "spryker-shop/multi-cart-widget": "^1.8.0",
-        "spryker/multi-cart": "^1.8.0",
+        "spryker/multi-cart": "^1.10.0",
         "spryker/multi-cart-data-import": "^0.1.2"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     },
     "suggest": {
