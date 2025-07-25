@@ -9,7 +9,7 @@
         "php": ">=8.2",
         "spryker-shop/multi-cart-page": "^2.8.0",
         "spryker-shop/multi-cart-widget": "^1.10.0",
-        "spryker/multi-cart": "^1.12.0",
+        "spryker/multi-cart": "^1.16.0",
         "spryker/multi-cart-data-import": "^0.1.2"
     },
     "extra": {
